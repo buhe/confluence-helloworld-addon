@@ -19,6 +19,7 @@
     "static-expiry": ">=0.0.5"
   },
   "devDependencies": {
+    "@vercel/node": "^2.9.12",
     "ngrok": "^4.3.3"
   }
 }
